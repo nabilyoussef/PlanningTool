@@ -1,0 +1,30 @@
+Team Names
+```
+Nabil Youssef Basta Boles	1900160
+Mohamed Abdallah Mohamed		1900421
+Mahmoud Ahmed Hamed			1900238
+Ahmed Ramadan Atya Mansour	1900971
+```
+folder contents
+
+- images	it contains all graphs used for report
+- MATLAB	PartA.m 
+			```functions used are separated to four files```
+			-calClusterSize.m
+			-calTrafficIntensity.m
+			-calNumCells.m
+			-calCellRadius.m
+			-------------------------------------------
+			Partb1.m>> Plot the cluster size versus 𝑆𝐼𝑅𝑚𝑖𝑛 with range from 1𝑑𝐵 𝑡𝑜 30 𝑑𝐵.
+			Partb2.m>> For 𝑆𝐼𝑅𝑚𝑖𝑛 = 19𝑑𝐵 & user density= 1400 𝑢𝑠𝑒𝑟𝑠/𝑘𝑚2
+						(i) Plot the number of cells versus GOS (1% to 30%).
+						(ii) Plot the traffic intensity per cell versus GOS (1%to 30%)
+			Partb3.m>> At 𝑆𝐼𝑅𝑚𝑖𝑛 = 14𝑑𝐵 & user density= 1400 𝑢𝑠𝑒𝑟𝑠/𝑘𝑚2,
+						(i) Plot the number of cells versus GOS (1% to 30%).
+						(ii) Plot the traffic intensity per cell versus GOS (1% to 30%).
+			Partb4.m>> At 𝑆𝐼𝑅𝑚𝑖𝑛 = 14𝑑𝐵 & GOS= 2%,
+						(i) Plot the number of cells versus user density (100 to 2000 𝑢𝑠𝑒𝑟𝑠/𝑘𝑚2).
+						(ii) Plot the cell radius versus user density (100 to 2000 𝑢𝑠𝑒𝑟𝑠/𝑘𝑚2).
+			Partb5.m>> At 𝑆𝐼𝑅𝑚𝑖𝑛 = 19𝑑𝐵 & GOS= 2%,
+						(i) Plot the number of cells versus user density (100 to 2000 𝑢𝑠𝑒𝑟𝑠/𝑘𝑚2).
+						(ii) Plot the cell radius versus user density (100 to 2000 𝑢𝑠𝑒𝑟𝑠/𝑘𝑚2).
